@@ -1,2 +1,0 @@
-# TallerPrueba
-Hola mundo
