@@ -16,7 +16,7 @@ public class Prueba {
                             System.out.println("dato: "+aux);
                         }
                     }
-                    suma = suma + aux; /*Tengo un error Aqui wey!*/
+                    suma = suma + aux; 
                 }
                 break;
             case "b":
